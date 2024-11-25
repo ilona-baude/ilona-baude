@@ -1,6 +1,6 @@
-<img src="https://github.com/ilona-baude/img/blob/main/9ynmFP.webp" /> </br>
+<img width="100%" height="350px" src="https://github.com/ilona-baude/img/blob/main/9ynmFP.webp" /> </br>
  # 👋 Hi there
-I'm a student in IT looking for a work-study placement in cybersecurity. 
+I'm a student in IT looking for a work-study placement in cybersecurity.</br>
 I'm passionate about data privacy and safety and looking to learn more about infosec
 ## 🧵About Me 
 * 🎓 Formations:
@@ -15,7 +15,8 @@ I'm passionate about data privacy and safety and looking to learn more about inf
 * 🌍 Languages:
   * French
   * English
-*⚡Fun Fact! My cats do most of the coding by lying down on my computer while I'm working
+* ⚡Fun Fact!
+My cats do most of the coding by lying down on my computer while I'm working 💻🐈
   
 ## ✨Recent Projects
 
