@@ -1,11 +1,21 @@
-  # 👋 Hi there
-I'm a student in IT currently learning about cybersecurity. </br>
-I have a Bachelor in English </br>
-I enjoy learning new programing languages</br>
-Right now I'm working on: DHCP Server setup and C++ </br>
-⚡Fun Fact! My cats do most of the coding by lying down on my computer while I'm working
+<img src="https://github.com/ilona-baude/img/blob/main/9ynmFP.webp" /> </br>
+ # 👋 Hi there
+## 🧵About Me 
+<p align="center">* 🎓 Formations:</p>
+  * Bachelor in English (Bac +3)
+  * Bachelor in IT (Ongoing)
+* 🌱 Learning:
+  * DHCP Server setup
+  * C++
+* 💡 Interested in:
+  * Cybersecurity
+  * Programming
+* 🌍 Languages:
+  * 🇫🇷 French
+  * 🇬🇧 English
+*⚡Fun Fact! My cats do most of the coding by lying down on my computer while I'm working
   
-## Recent Projects
+## ✨Recent Projects
 
 <a href="https://github.com/Elif-Sayhan/Tic-Tac-Game-of-Group-Sun">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elif-Sayhan&repo=Tic-Tac-Game-of-Group-Sun" />
@@ -14,13 +24,13 @@ Right now I'm working on: DHCP Server setup and C++ </br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilona-baude&repo=fansite" />
 </a>
 
-## Languages & Tools
+## 🧰Languages & Tools
   * Python
   * C++
   * VsCode
   * GitBash
   * VMWare Worksation 
 
-## Links
+## 🔗Links
 📫[ilona.baude@laplateforme.io](mailto:ilona.baude@laplateforme.io) </br>
-🔗[linkedin](linkedin.com)
+💼[linkedin](linkedin.com)
