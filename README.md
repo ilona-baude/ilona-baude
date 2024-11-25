@@ -15,7 +15,7 @@ I'm passionate about data privacy and safety and looking to learn more about inf
 * 🌍 Languages:
   * French
   * English
-* ⚡Fun Fact!</br>
+* ⚡Fun Fact !</br>
 My cats do most of the coding by lying down on my computer while I'm working 💻🐈
   
 ## ✨Recent Projects
