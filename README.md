@@ -1,7 +1,9 @@
 <img src="https://github.com/ilona-baude/img/blob/main/9ynmFP.webp" /> </br>
  # 👋 Hi there
+I'm a student in IT looking for a work-study placement in cybersecurity. 
+I'm passionate about data privacy and safety and looking to learn more about infosec
 ## 🧵About Me 
-<p align="center">* 🎓 Formations:</p>
+* 🎓 Formations:
   * Bachelor in English (Bac +3)
   * Bachelor in IT (Ongoing)
 * 🌱 Learning:
@@ -11,8 +13,8 @@
   * Cybersecurity
   * Programming
 * 🌍 Languages:
-  * 🇫🇷 French
-  * 🇬🇧 English
+  * French
+  * English
 *⚡Fun Fact! My cats do most of the coding by lying down on my computer while I'm working
   
 ## ✨Recent Projects
