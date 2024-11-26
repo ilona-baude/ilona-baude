@@ -24,7 +24,7 @@ My cats do most of the coding by lying down on my computer while I'm working ðŸ’
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elif-Sayhan&repo=Tic-Tac-Game-of-Group-Sun" />
 </a>
 <a href="https://github.com/ilona-baude/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilona-baude&repo=fansite" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilona-baude&repo=portfolio" />
 </a>
 
 ## ðŸ§°Languages & Tools
