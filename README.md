@@ -36,4 +36,4 @@ My cats do most of the coding by lying down on my computer while I'm working �
 
 ## 🔗Links
 📫[ilona.baude@laplateforme.io](mailto:ilona.baude@laplateforme.io) </br>
-💼[linkedin](linkedin.com)
+💼[linkedin](https://www.linkedin.com/in/ilona-baude/)
